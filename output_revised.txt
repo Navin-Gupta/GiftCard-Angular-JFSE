@@ -1,0 +1,5 @@
+testPlaceOrder=true
+testViewAllOrders=true
+testDeleteGiftCards=false
+testAddGiftOrder=true
+testUpdateGiftCards=false

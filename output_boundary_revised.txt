@@ -1,0 +1,6 @@
+
+testRecipientNameLength=false
+testGiftAmount=false
+testGiftOrdersSuccess=true
+testBuyerNameLength=false
+testRecipientMobileNo=false
